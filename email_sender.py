@@ -19,7 +19,7 @@ This is a **Python-based keylogger** that records all keystrokes on a machine an
 ### 1. Clone the Repository
 
 bash-
-git clone https://github.com/itzRajdeep143/KEYLOGGER_PROJECT
+git clone https://github.com/niks2801/Keylogger-Project.git
 cd Keylogger-Project
 
 ### 2. Install Dependencies
